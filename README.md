@@ -4,6 +4,8 @@ Television show data from paramountplus
 ## What is this repository?
 The Python script `paramount.py` extracts data from [Paramount Plus's list of television shows](https://www.paramountplus.com/shows/all/), downloads the image for each television show, and finally sends a request to the [OMDb API](https://www.omdbapi.com/).
 
+The **main purpose** of this repository is to get [IMDb](https://www.imdb.com/) ratings for the shows on Paramount Plus's website, as the ratings are NOT displayed and it may be useful information to know when searching for a new television series to watch.
+
 ### Paramount website:
 ![Imgur](https://imgur.com/qKaDigT.jpg)
 
